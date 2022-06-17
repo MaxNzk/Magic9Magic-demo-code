@@ -1,0 +1,17 @@
+{
+    "name": "AnalyticsManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b16c37f8586edd4282cab0b95249278",
+        "GUID:b0ceedd90952cb744a48453ae0c483c0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"f47affb1-31d1-459f-b937-a7cbfb79f348\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"VersionPC\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"48fddc5a-1271-4afc-b4c9-4814410c2e0d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"VersionPCUrl\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"https://mysite.com\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"6dbbd524-27f5-4f04-a6a8-4a018aef7847\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"VersionPCDescription\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"New version 2.0!!! Add a lot of new futures!\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"f47affb1-31d1-459f-b937-a7cbfb79f348\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"VersionPC\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"48fddc5a-1271-4afc-b4c9-4814410c2e0d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"VersionPCUrl\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"https://mysite.com\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"6dbbd524-27f5-4f04-a6a8-4a018aef7847\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"VersionPCDescription\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"New version 2.0!!! Add a lot of new futures!\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"a14f0a9f-b433-4b9c-931d-839e0322a148\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"da3ec4ed-a467-4b4b-9df7-6a9e57502e01\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2021-10-22T17:35:11Z\",\r\n    \"updatedAt\":
+    \"2021-10-22T17:35:11Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"a14f0a9f-b433-4b9c-931d-839e0322a148\",\r\n   
+    \"name\": \"dev\",\r\n    \"id\": \"d25c7ca0-a86c-48dc-a421-7f3dbc3f38b1\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2022-05-02T18:02:03Z\",\r\n   
+    \"updatedAt\": \"2022-05-02T18:02:03Z\"\r\n  }\r\n]"
