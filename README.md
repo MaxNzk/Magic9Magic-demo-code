@@ -59,7 +59,7 @@ Analytics data is stored in ScriptableObject - AnalyticsStorage.asset (_analytic
 
 **Footstep System:** Get active textures at a Raycast Hit on Terrain or Renderer.
 
-**Remote Settings:** checking for the game update.
+**Unity Remote Settings:** checking for the game update.
 
 **Camera** uses Cinemachine.
 
