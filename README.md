@@ -11,7 +11,7 @@ _Fork from my private repository. This document contains only brief information,
 
 **References:** Magicka, Divinity Original Sin, Magica.io (Mobile)
 
-Implemented "Color Blind (CVD)" mode.
+**Accessibility:** Colorblind Mode.
 
 ## Todo List:
 #### Milestones:
