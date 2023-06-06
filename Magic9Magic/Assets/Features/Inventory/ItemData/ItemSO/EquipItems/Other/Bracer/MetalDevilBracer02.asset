@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121cd6b57b284774f9b1276aeeba1375, type: 3}
+  m_Name: MetalDevilBracer02
+  m_EditorClassIdentifier: 
+  <ItemPrefab>k__BackingField: {fileID: 809602725296293285, guid: bbbacbb41a641154393165f40a6752cd, type: 3}
+  <ItemID>k__BackingField: 0
+  <ItemName>k__BackingField: Metal Devil Bracer
+  <Icon>k__BackingField: {fileID: 21300000, guid: e5658d83b8459a248942d78f8725ee14, type: 3}
+  <ItemType>k__BackingField: 9
+  <ItemLevel>k__BackingField: 2
+  <RequiredLevel>k__BackingField: 2
+  <Price>k__BackingField: 350
+  <AttackValues>k__BackingField: 000000000000000000000000000000000200000000000000000000000000000000000000
+  <DefenseValues>k__BackingField: 000000000000000000000000000000000100000000000000000000000000000000000000
+  <Description>k__BackingField: 'Metal Devil Bracer Level 2
+
+
+    Metal Magic Attack
+    +2
+
+    Metal Magic Defense +1'
+  <DescriptionUkraine>k__BackingField: 
+  <DescriptionRussian>k__BackingField: 

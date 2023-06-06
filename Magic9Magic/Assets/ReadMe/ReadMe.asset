@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74b91c8408c0ecd41a0b8dbb9ad1fa4c, type: 3}
+  m_Name: ReadMe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 36584a3865b9a2f49b765de3348432f4, type: 3}
+  title: ReadMe
+  sections:
+  - heading: 'Brief description of the technical side:'
+    text: 
+    linkText: 'Documentation: Github Page'
+    url: https://github.com/MaxNzk/Magic9Magic-demo-code
+  - heading: 
+    text: 'Unity version: 2022.3.0 LTS'
+    linkText: 
+    url: 
+  - heading: 
+    text: Git Branching workflow is GitHub Flow.
+    linkText: 
+    url: 
+  - heading: 
+    text: '"Entry point" is GameManager (Awake() > Initialize()) in any scene. GameManager
+      for different worlds do not inherit from a common base class.'
+    linkText: 
+    url: 
+  - heading: 
+    text: In Unity Edit Mode you can run any scene. That is, you do not need to run
+      from the StartScene.
+    linkText: 
+    url: 
+  - heading: 
+    text: GameManagers have FSM which is implemented through the State Machine of
+      Visual Scripting.
+    linkText: 
+    url: 
+  - heading: 
+    text: gameSettingsSO, analyticsStorageSO and playerSettingsSO come from GameManager.
+    linkText: 
+    url: 
+  - heading: 'Static events:'
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: 'MenuManager: OnShow / OnHide'
+    linkText: 
+    url: 
+  - heading: 
+    text: 'GameManager1/2: OnFinishMission'
+    linkText: 
+    url: 
+  - heading: 
+    text: 'PlayerPoints: OnPlayerLevelChanged(currentLevel)'
+    linkText: 
+    url: 
+  - heading: 'What hasn''t been done yet:'
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: '    * Magic System (+ crafting)'
+    linkText: 
+    url: 
+  - heading: 
+    text: '    * Journal (Quests, BattlePass, Achievements)'
+    linkText: 
+    url: 
+  - heading: 
+    text: '    * Procedural level generation'
+    linkText: 
+    url: 
+  - heading: 
+    text: '    * Refactoring'
+    linkText: 
+    url: 
+  loadedLayout: 0

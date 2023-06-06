@@ -1,0 +1,17 @@
+{
+    "name": "PlayerPart1",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b16c37f8586edd4282cab0b95249278",
+        "GUID:84504a44554c9d844a1ff1bcccc355cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

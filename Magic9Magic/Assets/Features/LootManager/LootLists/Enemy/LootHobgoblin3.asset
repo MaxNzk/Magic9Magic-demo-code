@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f77f2c07ad690fb41a8c2aeee031266b, type: 3}
+  m_Name: LootHobgoblin3
+  m_EditorClassIdentifier: 
+  <TotalDropProbability>k__BackingField: 10
+  <ItemList>k__BackingField:
+  - ItemSO: {fileID: 11400000, guid: 869079fdf81946846a6d47b9ad923a3b, type: 2}
+    Probability: 5
+  - ItemSO: {fileID: 11400000, guid: a1aedf2cc913b5a49b22cae9f3957b6c, type: 2}
+    Probability: 10
+  - ItemSO: {fileID: 11400000, guid: 620c4afc44bcb8245bdf33c4faa7b977, type: 2}
+    Probability: 25
+  - ItemSO: {fileID: 11400000, guid: e65d7545c8609e145830d21a1c9223fe, type: 2}
+    Probability: 40
+  - ItemSO: {fileID: 11400000, guid: 5d50f13a1dad2a242a24c268269e1041, type: 2}
+    Probability: 60
+  - ItemSO: {fileID: 11400000, guid: 1c7a77097e83f5d46b15e0bc55881f89, type: 2}
+    Probability: 85
+  _description: 

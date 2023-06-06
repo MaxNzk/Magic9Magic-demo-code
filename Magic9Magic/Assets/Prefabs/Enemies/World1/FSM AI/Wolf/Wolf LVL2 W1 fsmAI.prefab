@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7808555526446627459
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2532163155574587271, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: _enemySettingsSO
+      value: 
+      objectReference: {fileID: 11400000, guid: e68ae6029bce5624681ab63c878f063d, type: 2}
+    - target: {fileID: 1821094642771637282, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821094642771637282, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.009926
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.13046646
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.1992927
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692484106, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5026664154692659422, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: _enemySettingsSO
+      value: 
+      objectReference: {fileID: 11400000, guid: e68ae6029bce5624681ab63c878f063d, type: 2}
+    - target: {fileID: 5026664154692839466, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: m_Name
+      value: Wolf LVL2 W1 fsmAI
+      objectReference: {fileID: 0}
+    - target: {fileID: 6584970317327596532, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: StatsSO
+      value: 
+      objectReference: {fileID: 11400000, guid: e68ae6029bce5624681ab63c878f063d, type: 2}
+    - target: {fileID: 6584970317327596532, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: <StatsSO>k__BackingField
+      value: 
+      objectReference: {fileID: 11400000, guid: e68ae6029bce5624681ab63c878f063d, type: 2}
+    - target: {fileID: 7504130058295347427, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: _enemySettingsSO
+      value: 
+      objectReference: {fileID: 11400000, guid: e68ae6029bce5624681ab63c878f063d, type: 2}
+    - target: {fileID: 7504130059290857889, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}
+      propertyPath: _enemySettingsSO
+      value: 
+      objectReference: {fileID: 11400000, guid: e68ae6029bce5624681ab63c878f063d, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e6512dd6df894f243ac52f922e8e0477, type: 3}

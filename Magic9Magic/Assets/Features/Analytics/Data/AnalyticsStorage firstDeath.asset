@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2529117c5b246bf489777c814a9f9f91, type: 3}
+  m_Name: AnalyticsStorage firstDeath
+  m_EditorClassIdentifier: 
+  PlayerLevel: 1
+  GameSession: 1
+  NumberOfDeaths: 1
+  FirstPathStep: 3
+  NumberOfBattlesTotal: 1
+  NumberOfBattlesWorld1: 1
+  NumberOfBattlesWorld1v2: 0
+  NumberOfBattlesWorld2: 0
+  MissionWorld1Completed: 0
+  MissionWorld1Failed: 1
+  MissionWorld1v2Completed: 0
+  MissionWorld1v2Failed: 0
+  MissionWorld2Completed: 0
+  MissionWorld2Failed: 0
+  ThroughPortalsAmount: 010000000000000000000000
+  PassedThroughPortalToWorld: 1

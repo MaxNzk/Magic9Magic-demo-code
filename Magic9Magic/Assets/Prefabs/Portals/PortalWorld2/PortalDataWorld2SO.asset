@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15fdb861b2f6a494094c1b0f35424ba7, type: 3}
+  m_Name: PortalDataWorld2SO
+  m_EditorClassIdentifier: 
+  <SceneName>k__BackingField: World2Scene
+  <PortalMaterial>k__BackingField: {fileID: 2100000, guid: b9762c489ee08c24fb212221a2413fd0, type: 2}
+  <ClosePrice>k__BackingField: 7
+  <MiddlePrice>k__BackingField: 12
+  <FarPrice>k__BackingField: 20

@@ -1,0 +1,16 @@
+{
+    "name": "Missions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5c915c3639284494c9179f2870dd761c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

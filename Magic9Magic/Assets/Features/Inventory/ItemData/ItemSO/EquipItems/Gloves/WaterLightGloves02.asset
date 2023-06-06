@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121cd6b57b284774f9b1276aeeba1375, type: 3}
+  m_Name: WaterLightGloves02
+  m_EditorClassIdentifier: 
+  <ItemPrefab>k__BackingField: {fileID: 4922649753734213856, guid: 4625c1fce7b17bf4384bf31b80a26560, type: 3}
+  <ItemID>k__BackingField: 0
+  <ItemName>k__BackingField: Water Light Gloves
+  <Icon>k__BackingField: {fileID: 21300000, guid: a6322d2c4e972064aaaa38acc7c9dde9, type: 3}
+  <ItemType>k__BackingField: 7
+  <ItemLevel>k__BackingField: 2
+  <RequiredLevel>k__BackingField: 2
+  <Price>k__BackingField: 390
+  <AttackValues>k__BackingField: 000000000200000000000000000000000000000000000000000000000000000000000000
+  <DefenseValues>k__BackingField: 000000000100000000000000000000000000000000000000000000000000000000000000
+  <Description>k__BackingField: 'Water Light Gloves Level 2
+
+
+    Water Magic Attack
+    +2
+
+    Water Magic Defense +1'
+  <DescriptionUkraine>k__BackingField: 
+  <DescriptionRussian>k__BackingField: 

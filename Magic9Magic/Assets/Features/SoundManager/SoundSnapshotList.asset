@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27504006029a528409f6a15996591529, type: 3}
+  m_Name: SoundSnapshotList
+  m_EditorClassIdentifier: 
+  SnapshotList:
+  - _gamePlaySnapshot: {fileID: 24500006, guid: 1a4764b2698f0d740821e9429aaf29b2, type: 2}
+    _transitionTime: 1
+  - _gamePlaySnapshot: {fileID: 5702567564095321554, guid: 1a4764b2698f0d740821e9429aaf29b2, type: 2}
+    _transitionTime: 1
+  - _gamePlaySnapshot: {fileID: -4187939195427273829, guid: 1a4764b2698f0d740821e9429aaf29b2, type: 2}
+    _transitionTime: 1
+  - _gamePlaySnapshot: {fileID: -99102128807959111, guid: 1a4764b2698f0d740821e9429aaf29b2, type: 2}
+    _transitionTime: 1
+  - _gamePlaySnapshot: {fileID: -8416704718224198136, guid: 1a4764b2698f0d740821e9429aaf29b2, type: 2}
+    _transitionTime: 1

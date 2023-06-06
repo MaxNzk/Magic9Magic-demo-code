@@ -1,0 +1,19 @@
+{
+    "name": "LootManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b16c37f8586edd4282cab0b95249278",
+        "GUID:039f4b89ab224e941ac3a5a835657c90",
+        "GUID:e9d088e78277b7b4fa217466f61298da",
+        "GUID:f9448bf8734f03d458d8db7f6398f746"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

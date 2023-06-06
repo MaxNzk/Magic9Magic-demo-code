@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8249065810341560688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8249065810341560689}
+  - component: {fileID: 9087037648790027743}
+  - component: {fileID: 5886494808100440529}
+  - component: {fileID: 8249065810341560700}
+  - component: {fileID: 8249065810341560691}
+  - component: {fileID: 2261255195181004934}
+  - component: {fileID: 8249065810341560690}
+  m_Layer: 0
+  m_Name: RPGGameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8249065810341560689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9087037648790027743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &5886494808100440529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efe58df89b5b74a97a123b5ed2b70422, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
+    _objectReferences: []
+--- !u!114 &8249065810341560700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b4eb09f5ff2c941aa43580e6f135c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _cursorSettingsSO: {fileID: 11400000, guid: 63df4ef0c43898149af9940d1f06d489, type: 2}
+  _isCursorLocked: 0
+--- !u!114 &8249065810341560691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc24e336178741b449354fdc4864f37e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2261255195181004934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a335e59b854a9c49b7ab54b23ebaf9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _textColor: {r: 0, g: 0, b: 0.5803922, a: 1}
+  _isLeftTop: 0
+  _startDelay: 1.5
+--- !u!114 &8249065810341560690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8249065810341560688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8502fac9c0c26ef4babf8f4b1a93cf37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _player: {fileID: 0}
+  _finishMissionSO: {fileID: 0}
+  _missionType: 0
+  _missionParams: 0
+  _missionDuration: 180
+  _timerDifficultyMultiplier: 10
+  <MaxMissionMana>k__BackingField: 0
+  _surviveXminutesMsgDuration: 3
+  _worldGenerator: {fileID: 0}
+  _inputManager: {fileID: 0}
+  _soundManager: {fileID: 0}
+  _uiManagerPlayer: {fileID: 0}
+  _uiManagerWorld: {fileID: 0}
+  _lootManager: {fileID: 0}
+  _enemyFactory: {fileID: 0}
+  _spawnManager: {fileID: 0}
+  _poolManager: {fileID: 0}
+  _popupTextPoolManager: {fileID: 0}
+  _saveManager: {fileID: 0}
+  _analytics: {fileID: 0}
+  _gameSettingsSO: {fileID: 11400000, guid: c473fd16130e43f4b99470fdd3ce7c4b, type: 2}
+  _playerSettingsSO: {fileID: 11400000, guid: b5149172d0cb15840b52d63ed27c4259, type: 2}
+  _cdvFilter: {fileID: 0}
+  _loadingScreen: {fileID: 0}
+  _portal: {fileID: 0}
+  _reachedTarget: {fileID: 0}
+  _soundNameMissionCompleted: 0
+  _soundNameMissionFailed: 0

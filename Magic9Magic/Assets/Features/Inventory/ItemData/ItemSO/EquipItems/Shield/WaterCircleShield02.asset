@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121cd6b57b284774f9b1276aeeba1375, type: 3}
+  m_Name: WaterCircleShield02
+  m_EditorClassIdentifier: 
+  <ItemPrefab>k__BackingField: {fileID: 7752486486510703866, guid: 3a4216d5835d1154880b091b2869d202, type: 3}
+  <ItemID>k__BackingField: 0
+  <ItemName>k__BackingField: Water Circle Shield
+  <Icon>k__BackingField: {fileID: 21300000, guid: b582e5229e3ac5049833e85bcab2a487, type: 3}
+  <ItemType>k__BackingField: 3
+  <ItemLevel>k__BackingField: 2
+  <RequiredLevel>k__BackingField: 2
+  <Price>k__BackingField: 460
+  <AttackValues>k__BackingField: 000000000200000000000000000000000000000000000000000000000000000000000000
+  <DefenseValues>k__BackingField: 000000000100000000000000000000000000000000000000000000000000000000000000
+  <Description>k__BackingField: 'Water Circle Shield Level 2
+
+
+    Water Magic Attack
+    +2
+
+    Water Magic Defense +1'
+  <DescriptionUkraine>k__BackingField: 
+  <DescriptionRussian>k__BackingField: 

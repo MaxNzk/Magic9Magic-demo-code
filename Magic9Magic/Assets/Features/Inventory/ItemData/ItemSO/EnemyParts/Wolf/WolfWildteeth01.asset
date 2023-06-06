@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121cd6b57b284774f9b1276aeeba1375, type: 3}
+  m_Name: WolfWildteeth01
+  m_EditorClassIdentifier: 
+  <ItemPrefab>k__BackingField: {fileID: 2256889831952280953, guid: 342bd9a79528abd409e1237e097fd591, type: 3}
+  <ItemID>k__BackingField: 0
+  <ItemName>k__BackingField: Wolf Wildteeth
+  <Icon>k__BackingField: {fileID: 21300000, guid: cf95857f4dcd91841a8db63cea8d2b83, type: 3}
+  <ItemType>k__BackingField: 13
+  <ItemLevel>k__BackingField: 1
+  <RequiredLevel>k__BackingField: 0
+  <Price>k__BackingField: 10
+  <AttackValues>k__BackingField: 000000000000000000000000000000000000000000000000000000000000000000000000
+  <DefenseValues>k__BackingField: 000000000000000000000000000000000000000000000000000000000000000000000000
+  <Description>k__BackingField: Wolf Wildteeth Level 1
+  <DescriptionUkraine>k__BackingField: 
+  <DescriptionRussian>k__BackingField: 

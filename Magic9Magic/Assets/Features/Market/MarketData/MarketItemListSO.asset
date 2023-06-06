@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2afcc9e5d2dfcb84f8cfcba6ca8f23ff, type: 3}
+  m_Name: MarketItemListSO
+  m_EditorClassIdentifier: 
+  <ItemList>k__BackingField:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 6681fec5225fbfb4a85e4db78ddc3e8e, type: 2}
+  - {fileID: 11400000, guid: efdaa9d41a577b84faf168b2cf227adb, type: 2}
+  - {fileID: 11400000, guid: 6af2438ad93da074c8c7c53025fb0295, type: 2}
+  - {fileID: 11400000, guid: 1149674ad1a6845439cfc1414e84b91d, type: 2}
+  - {fileID: 11400000, guid: 5a6ceed90edfc4b4885d2ade9ab9f4f4, type: 2}
+  - {fileID: 11400000, guid: efa01933db1281d41901107710d48ad0, type: 2}
+  - {fileID: 11400000, guid: 87d84deeabbfb5944b894c3a8382da32, type: 2}
+  - {fileID: 11400000, guid: 2fbcbb40bb370f441b827fe212b96662, type: 2}
+  - {fileID: 11400000, guid: 5cd238c124e45ae4d8f9fa462ff3b25e, type: 2}
+  - {fileID: 11400000, guid: 0b1458abfc4c640419148a89df8155e5, type: 2}
+  - {fileID: 11400000, guid: 18d910f64f845844b969bcb9f8e307de, type: 2}
+  - {fileID: 11400000, guid: 8b67cdefc72bfae4aba3913f7629033e, type: 2}
+  - {fileID: 11400000, guid: b1e41b7d412ae95489faa5ee88a0e135, type: 2}
+  - {fileID: 11400000, guid: e4f8885eba5467a48b95135e71e16d45, type: 2}
+  - {fileID: 11400000, guid: 039560d9cc1943946826cf1ec33fb5d2, type: 2}
+  - {fileID: 11400000, guid: c86a1a49c0c103b48ac30f45337d744b, type: 2}
+  - {fileID: 11400000, guid: 983da61152f54524ba7e8647c0e478a9, type: 2}
+  - {fileID: 11400000, guid: 20be42c5ca2bf0648a340d16f8a09058, type: 2}
+  - {fileID: 11400000, guid: 4b0a0045e8183674e95375642bf21738, type: 2}
+  - {fileID: 11400000, guid: 63ffe0874142b2247a8640dff3371db2, type: 2}
+  - {fileID: 11400000, guid: 789317bff12b1ee4fb20e2b3d40d7415, type: 2}
+  - {fileID: 11400000, guid: 61d3e6ca8bde3d54c9c2905a64ea0d6b, type: 2}
+  - {fileID: 11400000, guid: 5afad57f90eea404a91be7b1ead44e59, type: 2}
+  - {fileID: 11400000, guid: b39d2bf1f162f8542b446f6d6dd39f5b, type: 2}
+  _description: Main Market Item List

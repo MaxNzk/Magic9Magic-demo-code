@@ -1,0 +1,22 @@
+{
+    "name": "Inventory",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b16c37f8586edd4282cab0b95249278",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:84504a44554c9d844a1ff1bcccc355cd",
+        "GUID:e9d088e78277b7b4fa217466f61298da",
+        "GUID:218c8d088c76f5f45b9b3de347da2c05",
+        "GUID:8cfec7f245fe62a409f84b13a99b2f67",
+        "GUID:5c915c3639284494c9179f2870dd761c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

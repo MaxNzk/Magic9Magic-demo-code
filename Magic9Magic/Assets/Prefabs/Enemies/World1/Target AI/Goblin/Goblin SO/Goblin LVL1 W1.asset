@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e1dc368acd1da4389c1ca4a1bedebe, type: 3}
+  m_Name: Goblin LVL1 W1
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Goblin
+  <Level>k__BackingField: 1
+  _attackValues: 050000000000000000000000000000000000000000000000000000000000000000000000
+  _defenseValues: 050000000000000005000000000000000000000005000000000000000000000000000000
+  _attackDistance: 0
+  _xpPoints: 5
+  _attackSpeed: 1.6
+  _waitTakeDamageMoment: 0.7
+  _maxHealth: 70
+  _isHealthbarShowOnAwake: 1
+  _healthbarAutoHideAfterSec: 0
+  _speed: 4.2
+  _stoppingDistance: 2.5
+  _isPopupText: 1
+  _popupTextOffsetY: 6.2
+  _lookRanges: 15

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfec1249541ad2488f6da723df596da, type: 3}
+  m_Name: W2TargetRefList
+  m_EditorClassIdentifier: 
+  <ObjectList>k__BackingField:
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: e74b78c0332e18446a5cbcf5285a7d30, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: 25e853bf82ccace4fa0160d71f772da3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: 0a01e6da5cf4a2148bb6c80d343e14e7, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: f8a76b1a01549cd4fb18af730fcac803
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: 74945e75b64f28c499994582579c3bd5, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: 26d89f4ce7b529b469b77704a124dd0e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: b7bb6a6f264bd5e4aa82256f548573d8, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: fe103e10bd9107641a93f4aac62d1dd7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: 058d36ad744451044aecf921ddde813c, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: d66031d89fb3ffe4e994ceee388cbafb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: 24dbedcea21668c4487f8c881f5ab450, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: 11e83cb076df43d4db8f8cf7b2e917ed
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: 18292e464ba347645b46b1c9606eb690, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: dec7c243fc9077541b9da69dded4f9c8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: cb76f7198b6696541b5121521d5962ab, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: 7225b868a643c454bb5098efcb7e64f7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - <ObjectName>k__BackingField: {fileID: 11400000, guid: cfc95856a179693459f96fd597cfa056, type: 2}
+    <AssetRef>k__BackingField:
+      m_AssetGUID: ec70e49580bd86d43919edab18f4d11b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

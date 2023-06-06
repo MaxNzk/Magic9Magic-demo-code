@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121cd6b57b284774f9b1276aeeba1375, type: 3}
+  m_Name: HobgoblinWildteeth03
+  m_EditorClassIdentifier: 
+  <ItemPrefab>k__BackingField: {fileID: 1967877539485652025, guid: f080a06cb6bfa9948ac40775d017f0b1, type: 3}
+  <ItemID>k__BackingField: 0
+  <ItemName>k__BackingField: Hobgoblin Wildteeth
+  <Icon>k__BackingField: {fileID: 21300000, guid: cf95857f4dcd91841a8db63cea8d2b83, type: 3}
+  <ItemType>k__BackingField: 13
+  <ItemLevel>k__BackingField: 3
+  <RequiredLevel>k__BackingField: 0
+  <Price>k__BackingField: 140
+  <AttackValues>k__BackingField: 000000000000000000000000000000000000000000000000000000000000000000000000
+  <DefenseValues>k__BackingField: 000000000000000000000000000000000000000000000000000000000000000000000000
+  <Description>k__BackingField: Hobgoblin Wildteeth Level 3
+  <DescriptionUkraine>k__BackingField: 
+  <DescriptionRussian>k__BackingField: 

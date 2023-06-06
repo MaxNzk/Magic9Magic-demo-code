@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2afcc9e5d2dfcb84f8cfcba6ca8f23ff, type: 3}
+  m_Name: MarketGlovesLevel1
+  m_EditorClassIdentifier: 
+  <ItemList>k__BackingField:
+  - {fileID: 11400000, guid: de8096fa0d967bf4ea45a27520c83eee, type: 2}
+  - {fileID: 11400000, guid: 348ac46fffe061b498944e1ffd4fa649, type: 2}
+  - {fileID: 11400000, guid: ce2df494627306040b2e3b53229569a7, type: 2}
+  - {fileID: 11400000, guid: 18d910f64f845844b969bcb9f8e307de, type: 2}
+  - {fileID: 11400000, guid: 8b67cdefc72bfae4aba3913f7629033e, type: 2}
+  _description: 

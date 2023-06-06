@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2864b47bbb9ef74d8403b48ab28a787, type: 3}
+  m_Name: W2Level2List
+  m_EditorClassIdentifier: 
+  <EnemyLevelList>k__BackingField:
+  - <NameSO>k__BackingField: {fileID: 11400000, guid: e74b78c0332e18446a5cbcf5285a7d30, type: 2}
+    <ObjectAmount>k__BackingField: 20
+    <MaxObjectAmount>k__BackingField: 30
+    <Probability>k__BackingField: 0.5
+    CurrentObjectAmount: 0
+  - <NameSO>k__BackingField: {fileID: 11400000, guid: 18292e464ba347645b46b1c9606eb690, type: 2}
+    <ObjectAmount>k__BackingField: 5
+    <MaxObjectAmount>k__BackingField: 10
+    <Probability>k__BackingField: 0.2
+    CurrentObjectAmount: 0
+  - <NameSO>k__BackingField: {fileID: 11400000, guid: b7bb6a6f264bd5e4aa82256f548573d8, type: 2}
+    <ObjectAmount>k__BackingField: 5
+    <MaxObjectAmount>k__BackingField: 10
+    <Probability>k__BackingField: 0.3
+    CurrentObjectAmount: 0

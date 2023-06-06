@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f77f2c07ad690fb41a8c2aeee031266b, type: 3}
+  m_Name: LootWolf2
+  m_EditorClassIdentifier: 
+  <TotalDropProbability>k__BackingField: 10
+  <ItemList>k__BackingField:
+  - ItemSO: {fileID: 11400000, guid: 0036a73f7c99f9344812a29d926f0e04, type: 2}
+    Probability: 5
+  - ItemSO: {fileID: 11400000, guid: 614d04642d0bd2d4aababe700247d81d, type: 2}
+    Probability: 10
+  - ItemSO: {fileID: 11400000, guid: 4caf449fc64c814468c0c079efe7c0c8, type: 2}
+    Probability: 25
+  - ItemSO: {fileID: 11400000, guid: b91886c3c755d9744bb02d71d3c7aa09, type: 2}
+    Probability: 40
+  - ItemSO: {fileID: 11400000, guid: 38148bc97ecf4d346a9f1b1a1c24b56a, type: 2}
+    Probability: 60
+  - ItemSO: {fileID: 11400000, guid: b15cbce2adb87c944b02609d7723059b, type: 2}
+    Probability: 85
+  _description: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2afcc9e5d2dfcb84f8cfcba6ca8f23ff, type: 3}
+  m_Name: MarketShieldLevel1
+  m_EditorClassIdentifier: 
+  <ItemList>k__BackingField:
+  - {fileID: 11400000, guid: 2b394dd9c4cfa2446bf6a06a853ed2b3, type: 2}
+  - {fileID: 11400000, guid: 5a6ceed90edfc4b4885d2ade9ab9f4f4, type: 2}
+  - {fileID: 11400000, guid: d634724f4b926d1488787a5650117b89, type: 2}
+  - {fileID: 11400000, guid: 3ae1e6584ed77ba4f9ae3e15014e4092, type: 2}
+  - {fileID: 11400000, guid: efa01933db1281d41901107710d48ad0, type: 2}
+  _description: 

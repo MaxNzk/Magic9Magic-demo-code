@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e1dc368acd1da4389c1ca4a1bedebe, type: 3}
+  m_Name: Hobgoblin LVL3 W1 fsmAI
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Hobgoblin
+  <Level>k__BackingField: 3
+  _attackValues: 0f0000000000000000000000000000000000000000000000000000000000000000000000
+  _defenseValues: 000000000c0000000f000000000000000000000000000000000000000000000000000000
+  _attackDistance: 0
+  _xpPoints: 20
+  _attackSpeed: 2
+  _waitTakeDamageMoment: 0
+  _maxHealth: 130
+  _isHealthbarShowOnAwake: 1
+  _healthbarAutoHideAfterSec: 0
+  _speed: 3
+  _stoppingDistance: 3.5
+  _isPopupText: 1
+  _popupTextOffsetY: 6.2
+  _lookRanges: 20

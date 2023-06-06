@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2afcc9e5d2dfcb84f8cfcba6ca8f23ff, type: 3}
+  m_Name: MarketAmuletLevel3
+  m_EditorClassIdentifier: 
+  <ItemList>k__BackingField:
+  - {fileID: 11400000, guid: 96732efee690c94468f0eda958c8cbf0, type: 2}
+  - {fileID: 11400000, guid: 9583a588ada03024d91d7ce6ac40531a, type: 2}
+  - {fileID: 11400000, guid: 380e570491f963e41816119cf5afa819, type: 2}
+  - {fileID: 11400000, guid: 21cef3b4fc133d345a722bfe512fd22b, type: 2}
+  - {fileID: 11400000, guid: 9c1106abec0f9b14096222dfc0c50fd2, type: 2}
+  _description: 

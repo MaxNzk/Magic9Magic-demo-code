@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f77f2c07ad690fb41a8c2aeee031266b, type: 3}
+  m_Name: LootGoblin1
+  m_EditorClassIdentifier: 
+  <TotalDropProbability>k__BackingField: 10
+  <ItemList>k__BackingField:
+  - ItemSO: {fileID: 11400000, guid: caac509296fa2624b9363c0434cbb4cd, type: 2}
+    Probability: 5
+  - ItemSO: {fileID: 11400000, guid: 36a4c3969081ed9498ae2ab65356f2f3, type: 2}
+    Probability: 10
+  - ItemSO: {fileID: 11400000, guid: 4a4110a3ef7fcfa4eae1b81419a573cd, type: 2}
+    Probability: 25
+  - ItemSO: {fileID: 11400000, guid: 72b065247a57d324e85dda0995d73d5d, type: 2}
+    Probability: 40
+  - ItemSO: {fileID: 11400000, guid: 1fc351c531d1dbc4b965356f1eb980aa, type: 2}
+    Probability: 60
+  - ItemSO: {fileID: 11400000, guid: cd2b595ae308f614ab7a5f32d0e864eb, type: 2}
+    Probability: 85
+  _description: 

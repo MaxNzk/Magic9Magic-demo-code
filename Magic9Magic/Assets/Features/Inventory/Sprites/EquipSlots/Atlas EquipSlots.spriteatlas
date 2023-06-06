@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas EquipSlots
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f8354edaa7d3d7e4fb3e3abd3081e02d, type: 3}
+    - {fileID: 2800000, guid: e52e206fbafaf774ca65a5984b1185c6, type: 3}
+    - {fileID: 2800000, guid: 2bcf3cf537ff36b46a9dc649b77985a5, type: 3}
+    - {fileID: 2800000, guid: 51e959ad71a43984a8687c0291923937, type: 3}
+    - {fileID: 2800000, guid: d43cbac77948588459c66f5e0dfb655a, type: 3}
+    - {fileID: 2800000, guid: 780bfeefdffb4b14dbc87b3b14584c70, type: 3}
+    - {fileID: 2800000, guid: ac7ecf6d402b3f9458c2f02a7654c980, type: 3}
+    - {fileID: 2800000, guid: 45e85d1153b0066498690fe14503a3a9, type: 3}
+    - {fileID: 2800000, guid: 3b32ed7827506cb47b47bedcb705b029, type: 3}
+    - {fileID: 2800000, guid: 45a896b45a613804fb40ab24db23d3c1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 45e85d1153b0066498690fe14503a3a9: 21300000
+    - 45a896b45a613804fb40ab24db23d3c1: 21300000
+    - 2bcf3cf537ff36b46a9dc649b77985a5: 21300000
+    - d43cbac77948588459c66f5e0dfb655a: 21300000
+    - 3b32ed7827506cb47b47bedcb705b029: 21300000
+    - f8354edaa7d3d7e4fb3e3abd3081e02d: 21300000
+    - ac7ecf6d402b3f9458c2f02a7654c980: 21300000
+    - 51e959ad71a43984a8687c0291923937: 21300000
+    - e52e206fbafaf774ca65a5984b1185c6: 21300000
+    - 780bfeefdffb4b14dbc87b3b14584c70: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 45e85d1153b0066498690fe14503a3a9, type: 3}
+  - {fileID: 21300000, guid: 45a896b45a613804fb40ab24db23d3c1, type: 3}
+  - {fileID: 21300000, guid: 2bcf3cf537ff36b46a9dc649b77985a5, type: 3}
+  - {fileID: 21300000, guid: d43cbac77948588459c66f5e0dfb655a, type: 3}
+  - {fileID: 21300000, guid: 3b32ed7827506cb47b47bedcb705b029, type: 3}
+  - {fileID: 21300000, guid: f8354edaa7d3d7e4fb3e3abd3081e02d, type: 3}
+  - {fileID: 21300000, guid: ac7ecf6d402b3f9458c2f02a7654c980, type: 3}
+  - {fileID: 21300000, guid: 51e959ad71a43984a8687c0291923937, type: 3}
+  - {fileID: 21300000, guid: e52e206fbafaf774ca65a5984b1185c6, type: 3}
+  - {fileID: 21300000, guid: 780bfeefdffb4b14dbc87b3b14584c70, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - equipSlot_shield
+  - equipSlot_sword
+  - equipSlot_axe
+  - equipSlot_globes
+  - equipSlot_staff
+  - equipSlot_amulet
+  - equipSlot_ring
+  - equipSlot_boots
+  - equipSlot_armor
+  - equipSlot_hat
+  m_RenderDataMap: {}
+  m_Tag: Atlas EquipSlots
+  m_IsVariant: 0

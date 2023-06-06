@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtlasUIIcons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cfca08577a857449f9070ba922aa86df, type: 3}
+    - {fileID: 2800000, guid: 076e5467b48574784a83c093bfacc22a, type: 3}
+    - {fileID: 2800000, guid: e6411bdc3221b43ddb1a9fa885ef30cc, type: 3}
+    - {fileID: 2800000, guid: 70f35c47960fe4b8dbebca13cdb7f1cc, type: 3}
+    - {fileID: 2800000, guid: 0ce514faaeff9664483f7fbff4721ea1, type: 3}
+    - {fileID: 2800000, guid: 12321bdb5bd34d443ab78c90589096da, type: 3}
+    - {fileID: 2800000, guid: 62ccc9353b426e545af8ba7df2299f01, type: 3}
+    - {fileID: 2800000, guid: 4c845caba84fa44749a6755368a59a03, type: 3}
+    - {fileID: 2800000, guid: d8834ee5e39554c6abd81648b1f91151, type: 3}
+    - {fileID: 2800000, guid: 2da9659ea9f6547808423fb363e16e47, type: 3}
+    - {fileID: 2800000, guid: 7b63dead1d8dc4b7ea48867b93168795, type: 3}
+    - {fileID: 2800000, guid: 9a75923d32717430b834f2afc6328cbd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 62ccc9353b426e545af8ba7df2299f01: 21300000
+    - d8834ee5e39554c6abd81648b1f91151: -3229092928857901161
+    - 70f35c47960fe4b8dbebca13cdb7f1cc: 21300000
+    - cfca08577a857449f9070ba922aa86df: 21300000
+    - 076e5467b48574784a83c093bfacc22a: 21300000
+    - 0ce514faaeff9664483f7fbff4721ea1: 21300000
+    - 4c845caba84fa44749a6755368a59a03: 21300000
+    - 12321bdb5bd34d443ab78c90589096da: 21300000
+    - e6411bdc3221b43ddb1a9fa885ef30cc: 21300000
+    - 9a75923d32717430b834f2afc6328cbd: 21300000
+    - 7b63dead1d8dc4b7ea48867b93168795: 21300000
+    - 2da9659ea9f6547808423fb363e16e47: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 62ccc9353b426e545af8ba7df2299f01, type: 3}
+  - {fileID: -3229092928857901161, guid: d8834ee5e39554c6abd81648b1f91151, type: 3}
+  - {fileID: 21300000, guid: 70f35c47960fe4b8dbebca13cdb7f1cc, type: 3}
+  - {fileID: 21300000, guid: cfca08577a857449f9070ba922aa86df, type: 3}
+  - {fileID: 21300000, guid: 076e5467b48574784a83c093bfacc22a, type: 3}
+  - {fileID: 21300000, guid: 0ce514faaeff9664483f7fbff4721ea1, type: 3}
+  - {fileID: 21300000, guid: 4c845caba84fa44749a6755368a59a03, type: 3}
+  - {fileID: 21300000, guid: 12321bdb5bd34d443ab78c90589096da, type: 3}
+  - {fileID: 21300000, guid: e6411bdc3221b43ddb1a9fa885ef30cc, type: 3}
+  - {fileID: 21300000, guid: 9a75923d32717430b834f2afc6328cbd, type: 3}
+  - {fileID: 21300000, guid: 7b63dead1d8dc4b7ea48867b93168795, type: 3}
+  - {fileID: 21300000, guid: 2da9659ea9f6547808423fb363e16e47, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_scroll
+  - reward_item_frame_focus_0
+  - icon_white_timer_01
+  - icon_itemicon_book_skill
+  - icon_itemicon_inventory
+  - icon_gem
+  - icon_white_setting_l
+  - icon_gold
+  - icon_itemicon_scroll1
+  - notify_small_dot
+  - slider_icontype_03_icon_l
+  - popup_01_frame
+  m_RenderDataMap: {}
+  m_Tag: AtlasUIIcons
+  m_IsVariant: 0

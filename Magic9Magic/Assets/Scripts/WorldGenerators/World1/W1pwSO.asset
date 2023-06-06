@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d971801dea8fe4ca3cab2ac972cbd8, type: 3}
+  m_Name: W1pwSO
+  m_EditorClassIdentifier: 
+  <WorldName>k__BackingField: Power World
+  <WorldDescription>k__BackingField: Power World is world where...
+  <WorldSOName>k__BackingField: W1pwSO
+  <ClosePrice>k__BackingField: 5
+  <MiddlePrice>k__BackingField: 10
+  <FarPrice>k__BackingField: 15
+  _isMagicTypesExist: 010101010101010101
+  _maxLevelCraftingSpells: 000000000000000000000000000000000000000000000000000000000000000000000000

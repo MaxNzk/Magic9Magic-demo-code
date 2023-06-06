@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f17ca1224302f8341a1d97fd526bc9c9, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  Albedo: {fileID: 0}
+  Color: {r: 0.8, g: 0.401, b: 0.115, a: 1}
+  WalkSoundName: 1
+  RunSoundName: 2
+  JumpSoundName: 3
